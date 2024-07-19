@@ -884,4 +884,10 @@ padding: 0.7vh;
         width:100%;
         overflow-x:hidden;
     }
+       .Entries{
+        flex-direction: column;
+    }
+    .dark-main{
+    height: 50vh;
+    }
   } 
